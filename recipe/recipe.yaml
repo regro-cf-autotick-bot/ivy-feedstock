@@ -1,5 +1,5 @@
 context:
-  version: "2.5.3"
+  version: "2.6.0"
 
 package:
   name: ivy
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://dlcdn.apache.org//ant/ivy/${{ version }}/apache-ivy-${{ version }}-src.tar.gz
-  sha256: 293c93858b2327c53d474a19feb3beb0652705eef060a4db63e10b51495dea2e
+  sha256: 7a1c4056af114ef7ed61f3665a614ce7085a442d5712a85a5bbebf84b217d29c
 
 build:
   number: 0
